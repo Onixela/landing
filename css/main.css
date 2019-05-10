@@ -1,0 +1,183 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color:white;
+}
+
+footer {
+
+	background-color: black;
+}
+
+#reg {
+	margin-left: 480px;
+	margin-bottom: 50px;
+}
+
+.offer {
+	background: url('../img/IMG_7033.jpg') no-repeat center top;
+
+}
+
+.title {
+	padding: 220px 0;
+	margin: 133px;
+}
+
+.title__heading {
+	font-size: 65px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+}
+
+.title__desc {
+	font-family: 'Roboto', sans-serif;
+	padding-bottom: 50px;
+
+
+}
+
+.requirement__heading {
+	font-size: 44px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	padding: 50px 0;
+}
+
+.requirement__desc {
+	font-size: 22px;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	
+}
+
+.requirement__data {
+	font-size: 22px;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+.features{
+	background-color: #f7f7f7;
+}
+
+.plan {
+	background-color: #f7f7f7;
+	
+
+}
+
+
+
+.features__heading {
+	font-size: 44px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	padding: 50px 0;
+}
+
+.pills {
+  margin-left: 0;
+  color: black;
+  list-style: none;
+  counter-reset: li;
+  font-size: 22px;
+font-weight: 400;
+font-family: 'Roboto', sans-serif;
+padding-bottom: 50px;
+}
+.pills li {
+  padding: 10px 0;
+  position: relative;
+  left: 1.5em;
+  margin-bottom: 0.75em;
+  padding-left: 1em;
+  
+}
+.pills li:before {
+  padding: 10px 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: -1.5em;
+  width: 1.875em;
+  text-align: center;
+  color: black;
+  font-weight: bold;
+  border-bottom-left-radius: 70em;
+  border-top-left-radius: 70em;
+  counter-increment: li;
+  content: counter(li);
+}
+
+.teacher_info {
+	font-size: 22px;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: left;
+	
+}
+
+
+.teacher__heading {
+	font-size: 44px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	padding: 50px;
+}
+
+.prepod {
+	font-size: 44px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	padding: 25px;
+}
+
+.teacher__desc {
+	font-size: 44px;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	padding-bottom: 20px;
+	
+	
+}
+
+
+.programma {
+	font-size: 44px;
+	font-weight: 900;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+	padding: 50px;
+
+}
+
+img {
+	padding-bottom: 50px;
+}
+
+.plan_info {
+	font-size: 22px;
+	font-weight: 400;
+	font-family: 'Roboto', sans-serif;
+	color:black;
+	text-align: center;
+
+	
+}
+
