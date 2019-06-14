@@ -1,5 +1,5 @@
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	color:white;
 }
 
@@ -9,6 +9,7 @@ footer {
 }
 
 #reg {
+	
 	margin-bottom: 50px;
 }
 
@@ -23,43 +24,80 @@ footer {
 }
 
 .title__heading {
-	font-size: 65px;
-	font-weight: 900;
-	font-family: 'Roboto', sans-serif;
+	font-size: 4em;
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .title__desc {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Raleway', sans-serif;
 	padding-bottom: 50px;
 
 
 }
 
 .requirement__heading {
-	font-size: 44px;
-	font-weight: 900;
-	font-family: 'Roboto', sans-serif;
+	font-size: 4em;
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
 	text-align: center;
 	padding: 50px 0;
 }
 
 .requirement__desc {
-	font-size: 22px;
-	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+	font-weight: 500;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
-	text-align: center;
+	text-align: left;
+	
+}
+
+.requirement__desc2 {
+	font-size: 1.5em;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+	color:black;
+	text-align: left;
 	
 }
 
 .requirement__data {
-	font-size: 22px;
-	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+	font-weight: 500;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
-	text-align: center;
+	text-align: left;
+	
+}
+
+.requirement__data2 {
+	font-size: 1.5em;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+	color:black;
+	text-align: left;
+	
+}
+
+.requirement__desc3 {
+	font-size: 2em;
+	font-weight: 500;
+	font-family: 'Ubuntu', sans-serif;
+	color:black;
+	text-align: left;
+	
+}
+
+.requirement__desc4 {
+	font-size: 1.5em;
+	font-weight: 500;
+	font-family: 'Raleway', sans-serif;
+	color:black;
+	text-align: left;
 	padding-bottom: 50px;
+	
 }
 
 .features{
@@ -75,9 +113,9 @@ footer {
 
 
 .features__heading {
-	font-size: 44px;
-	font-weight: 900;
-	font-family: 'Roboto', sans-serif;
+	font-size: 4em;
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
 	text-align: center;
 	padding: 50px 0;
@@ -88,9 +126,9 @@ footer {
   color: black;
   list-style: none;
   counter-reset: li;
-  font-size: 22px;
-font-weight: 400;
-font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+font-weight: 500;
+font-family: 'Raleway', sans-serif;
 padding-bottom: 50px;
 }
 .pills li {
@@ -118,9 +156,9 @@ padding-bottom: 50px;
 }
 
 .teacher_info {
-	font-size: 22px;
-	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	font-weight: 500;
+	font-family: 'Railway', sans-serif;
 	color:black;
 	text-align: left;
 	
@@ -128,18 +166,18 @@ padding-bottom: 50px;
 
 
 .teacher__heading {
-	font-size: 44px;
-	font-weight: 900;
-	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	font-weight: 500;
+	font-family: 'Railway', sans-serif;
 	color:black;
 	text-align: center;
 	padding: 50px;
 }
 
 .prepod {
-	font-size: 44px;
-	font-weight: 900;
-	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
 	text-align: center;
 	padding: 25px;
@@ -179,4 +217,6 @@ img {
 
 	
 }
+
+
 
