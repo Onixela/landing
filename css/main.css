@@ -184,9 +184,9 @@ padding-bottom: 50px;
 }
 
 .teacher__desc {
-	font-size: 44px;
-	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-size: 2em;
+	font-weight: 500;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
 	padding-bottom: 20px;
 	
@@ -195,9 +195,9 @@ padding-bottom: 50px;
 
 
 .programma {
-	font-size: 44px;
-	font-weight: 900;
-	font-family: 'Roboto', sans-serif;
+	font-size: 4em;
+	font-weight: 700;
+	font-family: 'Ubuntu', sans-serif;
 	color:black;
 	text-align: center;
 	padding: 50px;
@@ -209,14 +209,12 @@ img {
 }
 
 .plan_info {
-	font-size: 22px;
-	font-weight: 400;
-	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	font-weight: 500;
+	font-family: 'Railway', sans-serif;
 	color:black;
 	text-align: center;
 
 	
 }
-
-
 
